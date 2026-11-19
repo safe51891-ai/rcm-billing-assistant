@@ -1,0 +1,2817 @@
+[
+  {
+    "note": "Mr. Shaun Castro seen today for review. asthma and urinary tract infection and pneumonia stable. Contact shaun.castro@griffin.com. no hypertension.",
+    "identifiers": {
+      "name": "Shaun Castro",
+      "mrn": "69294",
+      "phone": "778-932-8792",
+      "email": "shaun.castro@griffin.com",
+      "dob": "05/09/2003"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Brian Lee\nAddress: 145 William Burgs Apt. 916\nAssessment: urinary tract infection and hypertension and type 2 diabetes. negative for urinary tract infection. Date of service 2026-02-04. Brian Lee agreed with the plan.",
+    "identifiers": {
+      "name": "Brian Lee",
+      "mrn": "72359",
+      "phone": "075-793-8347",
+      "email": "brian.lee@bates.com",
+      "dob": "07/18/1953"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Kelly Jones, MRN: 80607, DOB: 02/11/1937. Follow-up visit. Known type 2 diabetes and asthma and hypertension. Phone 033-076-6619. no hypertension.",
+    "identifiers": {
+      "name": "Kelly Jones",
+      "mrn": "80607",
+      "phone": "033-076-6619",
+      "email": "kelly.jones@gonzalez.com",
+      "dob": "02/11/1937"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. James Dennis seen today for review. type 2 diabetes stable. Contact james.dennis@lopez.org. no hypertension.",
+    "identifiers": {
+      "name": "James Dennis",
+      "mrn": "18279",
+      "phone": "616-630-4940",
+      "email": "james.dennis@lopez.org",
+      "dob": "06/11/1945"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  },
+  {
+    "note": "Name: Christopher Aguilar\nAddress: 328 Gloria Loaf\nAssessment: asthma and hypertension. no hypertension. Date of service 2026-10-12.",
+    "identifiers": {
+      "name": "Christopher Aguilar",
+      "mrn": "70808",
+      "phone": "955-972-9792",
+      "email": "christopher.aguilar@white-moore.com",
+      "dob": "08/15/1953"
+    },
+    "codes": [
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Carrie Fisher presents with symptoms. History notable for asthma. MRN 96828. without pneumonia.",
+    "identifiers": {
+      "name": "Carrie Fisher",
+      "mrn": "96828",
+      "phone": "084-364-6974",
+      "email": "carrie.fisher@thompson.com",
+      "dob": "06/18/1943"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Bruce Thompson, MRN: 20905, DOB: 10/21/1962. Follow-up visit. Known pneumonia and urinary tract infection and type 2 diabetes. Phone 921-527-5892. without pneumonia. Bruce Thompson agreed with the plan.",
+    "identifiers": {
+      "name": "Bruce Thompson",
+      "mrn": "20905",
+      "phone": "921-527-5892",
+      "email": "bruce.thompson@johnson.com",
+      "dob": "10/21/1962"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Amy Mclaughlin, MRN: 24146, DOB: 08/06/2001. Follow-up visit. Known type 2 diabetes and pneumonia. Phone 255-171-6079. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Amy Mclaughlin",
+      "mrn": "24146",
+      "phone": "255-171-6079",
+      "email": "amy.mclaughlin@weber.biz",
+      "dob": "08/06/2001"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Patient: Paul Moss, MRN: 99770, DOB: 04/17/1978. Follow-up visit. Known hypertension. Phone 778-188-0491. no hypertension.",
+    "identifiers": {
+      "name": "Paul Moss",
+      "mrn": "99770",
+      "phone": "778-188-0491",
+      "email": "paul.moss@johnson-bernard.com",
+      "dob": "04/17/1978"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Name: Scott Snow\nAddress: 2177 Frost Village\nAssessment: type 2 diabetes and hypertension. without pneumonia. Date of service 2026-05-14. Scott Snow agreed with the plan.",
+    "identifiers": {
+      "name": "Scott Snow",
+      "mrn": "62091",
+      "phone": "436-336-3953",
+      "email": "scott.snow@taylor.com",
+      "dob": "10/02/1959"
+    },
+    "codes": [
+      "E11.9",
+      "I10"
+    ]
+  },
+  {
+    "note": "Mr. Connie Snyder seen today for review. asthma stable. Contact connie.snyder@parker-moody.com. denies asthma. Connie Snyder agreed with the plan.",
+    "identifiers": {
+      "name": "Connie Snyder",
+      "mrn": "53592",
+      "phone": "975-104-9049",
+      "email": "connie.snyder@parker-moody.com",
+      "dob": "11/27/1958"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Crystal Griffin presents with symptoms. History notable for type 2 diabetes. MRN 23244. negative for urinary tract infection. Crystal Griffin agreed with the plan.",
+    "identifiers": {
+      "name": "Crystal Griffin",
+      "mrn": "23244",
+      "phone": "513-374-2078",
+      "email": "crystal.griffin@johnson.net",
+      "dob": "11/14/1981"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  },
+  {
+    "note": "Mr. Renee Bennett seen today for review. asthma stable. Contact renee.bennett@madden.com. no hypertension.",
+    "identifiers": {
+      "name": "Renee Bennett",
+      "mrn": "83307",
+      "phone": "857-531-1336",
+      "email": "renee.bennett@madden.com",
+      "dob": "05/28/1977"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Mikayla Patterson seen today for review. asthma stable. Contact mikayla.patterson@miller.com. negative for urinary tract infection. Mikayla Patterson agreed with the plan.",
+    "identifiers": {
+      "name": "Mikayla Patterson",
+      "mrn": "60299",
+      "phone": "852-728-8779",
+      "email": "mikayla.patterson@miller.com",
+      "dob": "06/12/1938"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Chelsea Torres presents with symptoms. History notable for type 2 diabetes and hypertension. MRN 87691. no hypertension.",
+    "identifiers": {
+      "name": "Chelsea Torres",
+      "mrn": "87691",
+      "phone": "884-973-6818",
+      "email": "chelsea.torres@jacobs.net",
+      "dob": "03/09/1946"
+    },
+    "codes": [
+      "E11.9",
+      "I10"
+    ]
+  },
+  {
+    "note": "Mr. Sarah Stevens seen today for review. urinary tract infection and type 2 diabetes and asthma stable. Contact sarah.stevens@rodriguez-barnes.com. no hypertension.",
+    "identifiers": {
+      "name": "Sarah Stevens",
+      "mrn": "88907",
+      "phone": "643-772-5678",
+      "email": "sarah.stevens@rodriguez-barnes.com",
+      "dob": "02/06/2003"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Jessica Martinez, MRN: 11255, DOB: 02/23/1973. Follow-up visit. Known pneumonia and urinary tract infection and hypertension. Phone 438-606-6892. denies asthma. Jessica Martinez agreed with the plan.",
+    "identifiers": {
+      "name": "Jessica Martinez",
+      "mrn": "11255",
+      "phone": "438-606-6892",
+      "email": "jessica.martinez@harris.net",
+      "dob": "02/23/1973"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Raven Stewart\nAddress: 60139 Pruitt Lake\nAssessment: hypertension and type 2 diabetes and pneumonia. without pneumonia. Date of service 2026-02-07.",
+    "identifiers": {
+      "name": "Raven Stewart",
+      "mrn": "86380",
+      "phone": "333-123-2146",
+      "email": "raven.stewart@graham.net",
+      "dob": "11/16/1958"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. William Chang seen today for review. asthma and hypertension and urinary tract infection stable. Contact william.chang@thomas-lopez.com. no hypertension.",
+    "identifiers": {
+      "name": "William Chang",
+      "mrn": "26675",
+      "phone": "317-100-8989",
+      "email": "william.chang@thomas-lopez.com",
+      "dob": "08/02/1972"
+    },
+    "codes": [
+      "I10",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Steven Robertson presents with symptoms. History notable for hypertension and urinary tract infection and type 2 diabetes. MRN 39934. no hypertension.",
+    "identifiers": {
+      "name": "Steven Robertson",
+      "mrn": "39934",
+      "phone": "950-032-6755",
+      "email": "steven.robertson@weeks-jacobs.com",
+      "dob": "04/12/1967"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Jonathan Pruitt, MRN: 89106, DOB: 03/24/1990. Follow-up visit. Known asthma. Phone 262-585-6263. denies asthma. Jonathan Pruitt agreed with the plan.",
+    "identifiers": {
+      "name": "Jonathan Pruitt",
+      "mrn": "89106",
+      "phone": "262-585-6263",
+      "email": "jonathan.pruitt@lopez.com",
+      "dob": "03/24/1990"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Hunter Jones presents with symptoms. History notable for hypertension and asthma. MRN 77155. without pneumonia.",
+    "identifiers": {
+      "name": "Hunter Jones",
+      "mrn": "77155",
+      "phone": "731-690-1913",
+      "email": "hunter.jones@wallace-wagner.com",
+      "dob": "06/15/1973"
+    },
+    "codes": [
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Katherine Williams seen today for review. pneumonia and hypertension stable. Contact katherine.williams@fisher-rose.org. denies asthma. Katherine Williams agreed with the plan.",
+    "identifiers": {
+      "name": "Katherine Williams",
+      "mrn": "88180",
+      "phone": "267-278-9906",
+      "email": "katherine.williams@fisher-rose.org",
+      "dob": "10/14/2003"
+    },
+    "codes": [
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Cynthia Ortiz seen today for review. urinary tract infection and type 2 diabetes and hypertension stable. Contact cynthia.ortiz@mcpherson-sanchez.net. no hypertension.",
+    "identifiers": {
+      "name": "Cynthia Ortiz",
+      "mrn": "83317",
+      "phone": "056-095-1367",
+      "email": "cynthia.ortiz@mcpherson-sanchez.net",
+      "dob": "11/02/1985"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: James Williams, MRN: 19064, DOB: 06/08/1974. Follow-up visit. Known asthma and urinary tract infection. Phone 157-267-9496. no hypertension. James Williams agreed with the plan.",
+    "identifiers": {
+      "name": "James Williams",
+      "mrn": "19064",
+      "phone": "157-267-9496",
+      "email": "james.williams@strickland-schmidt.com",
+      "dob": "06/08/1974"
+    },
+    "codes": [
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Annette Vargas\nAddress: 12835 Mendoza Fords Suite 572\nAssessment: urinary tract infection and hypertension. denies asthma. Date of service 2026-09-28. Annette Vargas agreed with the plan.",
+    "identifiers": {
+      "name": "Annette Vargas",
+      "mrn": "46957",
+      "phone": "333-830-0044",
+      "email": "annette.vargas@johnson-johnson.com",
+      "dob": "02/05/1982"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Charles Wilson, MRN: 69027, DOB: 12/15/1994. Follow-up visit. Known urinary tract infection and hypertension. Phone 937-646-2529. denies asthma.",
+    "identifiers": {
+      "name": "Charles Wilson",
+      "mrn": "69027",
+      "phone": "937-646-2529",
+      "email": "charles.wilson@carter-blake.com",
+      "dob": "12/15/1994"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Gina Evans presents with symptoms. History notable for pneumonia and type 2 diabetes and asthma. MRN 56854. denies asthma. Gina Evans agreed with the plan.",
+    "identifiers": {
+      "name": "Gina Evans",
+      "mrn": "56854",
+      "phone": "143-914-7542",
+      "email": "gina.evans@howard.com",
+      "dob": "06/30/1992"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Jessica Black presents with symptoms. History notable for hypertension and type 2 diabetes. MRN 50771. denies asthma.",
+    "identifiers": {
+      "name": "Jessica Black",
+      "mrn": "50771",
+      "phone": "505-696-3956",
+      "email": "jessica.black@moore.com",
+      "dob": "01/13/1942"
+    },
+    "codes": [
+      "E11.9",
+      "I10"
+    ]
+  },
+  {
+    "note": "Amy Cook presents with symptoms. History notable for hypertension and pneumonia and urinary tract infection. MRN 15828. denies asthma.",
+    "identifiers": {
+      "name": "Amy Cook",
+      "mrn": "15828",
+      "phone": "151-021-6337",
+      "email": "amy.cook@morgan.com",
+      "dob": "11/10/1955"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Michael Smith presents with symptoms. History notable for asthma. MRN 64677. denies asthma.",
+    "identifiers": {
+      "name": "Michael Smith",
+      "mrn": "64677",
+      "phone": "178-085-0166",
+      "email": "michael.smith@sanchez.biz",
+      "dob": "06/23/1963"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Jessica Turner\nAddress: 837 Patricia Lodge Apt. 488\nAssessment: type 2 diabetes and urinary tract infection and asthma. denies asthma. Date of service 2026-06-04.",
+    "identifiers": {
+      "name": "Jessica Turner",
+      "mrn": "11631",
+      "phone": "207-097-0513",
+      "email": "jessica.turner@howard.com",
+      "dob": "03/27/1947"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Jorge Clay presents with symptoms. History notable for urinary tract infection and asthma. MRN 53273. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Jorge Clay",
+      "mrn": "53273",
+      "phone": "581-736-0326",
+      "email": "jorge.clay@norton.com",
+      "dob": "08/16/2002"
+    },
+    "codes": [
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Jordan Booth presents with symptoms. History notable for urinary tract infection and type 2 diabetes and hypertension. MRN 20981. denies asthma. Jordan Booth agreed with the plan.",
+    "identifiers": {
+      "name": "Jordan Booth",
+      "mrn": "20981",
+      "phone": "948-802-9203",
+      "email": "jordan.booth@short.com",
+      "dob": "07/23/1973"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Evelyn Harrington, MRN: 24796, DOB: 01/07/1968. Follow-up visit. Known urinary tract infection and asthma. Phone 086-872-4546. without pneumonia.",
+    "identifiers": {
+      "name": "Evelyn Harrington",
+      "mrn": "24796",
+      "phone": "086-872-4546",
+      "email": "evelyn.harrington@hawkins.com",
+      "dob": "01/07/1968"
+    },
+    "codes": [
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Kelsey Chase\nAddress: 4975 Serrano Course Apt. 291\nAssessment: urinary tract infection and hypertension and pneumonia. no hypertension. Date of service 2026-02-12.",
+    "identifiers": {
+      "name": "Kelsey Chase",
+      "mrn": "28772",
+      "phone": "392-468-4568",
+      "email": "kelsey.chase@miller.com",
+      "dob": "07/13/1997"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Crystal White\nAddress: 326 Rivera Loop\nAssessment: hypertension and pneumonia. negative for urinary tract infection. Date of service 2026-07-20. Crystal White agreed with the plan.",
+    "identifiers": {
+      "name": "Crystal White",
+      "mrn": "67924",
+      "phone": "079-113-0216",
+      "email": "crystal.white@wise-peterson.biz",
+      "dob": "12/25/1949"
+    },
+    "codes": [
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Jessica Austin seen today for review. hypertension stable. Contact jessica.austin@grant.net. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Jessica Austin",
+      "mrn": "66478",
+      "phone": "398-045-3547",
+      "email": "jessica.austin@grant.net",
+      "dob": "01/28/1959"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Jasmine Boyle presents with symptoms. History notable for hypertension. MRN 51482. no hypertension.",
+    "identifiers": {
+      "name": "Jasmine Boyle",
+      "mrn": "51482",
+      "phone": "031-237-9655",
+      "email": "jasmine.boyle@hickman.com",
+      "dob": "04/20/1977"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Makayla Roberts presents with symptoms. History notable for type 2 diabetes and pneumonia and urinary tract infection. MRN 15317. denies asthma.",
+    "identifiers": {
+      "name": "Makayla Roberts",
+      "mrn": "15317",
+      "phone": "395-229-8170",
+      "email": "makayla.roberts@white-benitez.com",
+      "dob": "05/13/2001"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Ashley Thompson presents with symptoms. History notable for asthma and urinary tract infection. MRN 38059. without pneumonia.",
+    "identifiers": {
+      "name": "Ashley Thompson",
+      "mrn": "38059",
+      "phone": "439-500-2679",
+      "email": "ashley.thompson@harrison.org",
+      "dob": "10/29/1973"
+    },
+    "codes": [
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Andrew Solomon\nAddress: 183 Sandoval Freeway Apt. 586\nAssessment: urinary tract infection and type 2 diabetes. without pneumonia. Date of service 2026-07-01.",
+    "identifiers": {
+      "name": "Andrew Solomon",
+      "mrn": "14126",
+      "phone": "966-954-9131",
+      "email": "andrew.solomon@allen-marks.com",
+      "dob": "06/29/1957"
+    },
+    "codes": [
+      "E11.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Frank Banks presents with symptoms. History notable for hypertension. MRN 83929. negative for urinary tract infection. Frank Banks agreed with the plan.",
+    "identifiers": {
+      "name": "Frank Banks",
+      "mrn": "83929",
+      "phone": "111-821-8970",
+      "email": "frank.banks@sanchez-evans.com",
+      "dob": "08/28/1966"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Patient: Anthony Roach, MRN: 44919, DOB: 05/10/1958. Follow-up visit. Known hypertension. Phone 727-334-0355. denies asthma.",
+    "identifiers": {
+      "name": "Anthony Roach",
+      "mrn": "44919",
+      "phone": "727-334-0355",
+      "email": "anthony.roach@smith-reid.net",
+      "dob": "05/10/1958"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Mr. Rachel Kane seen today for review. pneumonia and type 2 diabetes and urinary tract infection stable. Contact rachel.kane@white-young.com. no hypertension.",
+    "identifiers": {
+      "name": "Rachel Kane",
+      "mrn": "92570",
+      "phone": "257-612-3413",
+      "email": "rachel.kane@white-young.com",
+      "dob": "12/11/1987"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Charles Stark, MRN: 43559, DOB: 04/09/1941. Follow-up visit. Known type 2 diabetes. Phone 009-948-4691. negative for urinary tract infection. Charles Stark agreed with the plan.",
+    "identifiers": {
+      "name": "Charles Stark",
+      "mrn": "43559",
+      "phone": "009-948-4691",
+      "email": "charles.stark@mitchell.com",
+      "dob": "04/09/1941"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  },
+  {
+    "note": "Mr. Aaron Snow seen today for review. urinary tract infection and hypertension stable. Contact aaron.snow@lynn.com. negative for urinary tract infection. Aaron Snow agreed with the plan.",
+    "identifiers": {
+      "name": "Aaron Snow",
+      "mrn": "45698",
+      "phone": "185-570-8488",
+      "email": "aaron.snow@lynn.com",
+      "dob": "04/11/1940"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Jordan Stephens seen today for review. asthma stable. Contact jordan.stephens@hernandez-smith.info. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Jordan Stephens",
+      "mrn": "60852",
+      "phone": "974-039-0972",
+      "email": "jordan.stephens@hernandez-smith.info",
+      "dob": "02/15/1998"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Bobby Edwards\nAddress: 56753 David Throughway Apt. 278\nAssessment: urinary tract infection and pneumonia. negative for urinary tract infection. Date of service 2026-08-28.",
+    "identifiers": {
+      "name": "Bobby Edwards",
+      "mrn": "10881",
+      "phone": "849-718-2643",
+      "email": "bobby.edwards@crawford.org",
+      "dob": "03/25/1981"
+    },
+    "codes": [
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Benjamin Allen seen today for review. type 2 diabetes stable. Contact benjamin.allen@phillips.net. no hypertension.",
+    "identifiers": {
+      "name": "Benjamin Allen",
+      "mrn": "36855",
+      "phone": "216-847-6109",
+      "email": "benjamin.allen@phillips.net",
+      "dob": "11/10/2000"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  },
+  {
+    "note": "Patient: Ethan Richards, MRN: 21513, DOB: 07/01/2008. Follow-up visit. Known urinary tract infection and pneumonia. Phone 599-276-3660. without pneumonia.",
+    "identifiers": {
+      "name": "Ethan Richards",
+      "mrn": "21513",
+      "phone": "599-276-3660",
+      "email": "ethan.richards@barnes.com",
+      "dob": "07/01/2008"
+    },
+    "codes": [
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Victoria Shelton presents with symptoms. History notable for asthma. MRN 20849. without pneumonia.",
+    "identifiers": {
+      "name": "Victoria Shelton",
+      "mrn": "20849",
+      "phone": "386-610-4549",
+      "email": "victoria.shelton@stone.com",
+      "dob": "11/11/1998"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Marc Cruz presents with symptoms. History notable for hypertension. MRN 73890. denies asthma.",
+    "identifiers": {
+      "name": "Marc Cruz",
+      "mrn": "73890",
+      "phone": "654-804-6937",
+      "email": "marc.cruz@lopez.org",
+      "dob": "12/14/1941"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Jessica Wade presents with symptoms. History notable for pneumonia and hypertension and asthma. MRN 32661. no hypertension.",
+    "identifiers": {
+      "name": "Jessica Wade",
+      "mrn": "32661",
+      "phone": "348-762-6853",
+      "email": "jessica.wade@carter.org",
+      "dob": "08/17/1946"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Javier Norris seen today for review. type 2 diabetes and hypertension and asthma stable. Contact javier.norris@arias-mitchell.com. without pneumonia.",
+    "identifiers": {
+      "name": "Javier Norris",
+      "mrn": "74563",
+      "phone": "534-161-6707",
+      "email": "javier.norris@arias-mitchell.com",
+      "dob": "07/18/1984"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Robert Hernandez\nAddress: 1005 Snow Port Suite 427\nAssessment: pneumonia and asthma. no hypertension. Date of service 2026-05-04.",
+    "identifiers": {
+      "name": "Robert Hernandez",
+      "mrn": "83396",
+      "phone": "840-615-1640",
+      "email": "robert.hernandez@simpson-willis.info",
+      "dob": "06/01/1978"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Matthew Hurst, MRN: 81396, DOB: 02/23/1938. Follow-up visit. Known pneumonia and asthma and type 2 diabetes. Phone 310-986-9614. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Matthew Hurst",
+      "mrn": "81396",
+      "phone": "310-986-9614",
+      "email": "matthew.hurst@gallegos.biz",
+      "dob": "02/23/1938"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Erin Young, MRN: 89328, DOB: 12/13/1935. Follow-up visit. Known type 2 diabetes and urinary tract infection. Phone 860-387-8198. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Erin Young",
+      "mrn": "89328",
+      "phone": "860-387-8198",
+      "email": "erin.young@novak.com",
+      "dob": "12/13/1935"
+    },
+    "codes": [
+      "E11.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Robert Richardson presents with symptoms. History notable for urinary tract infection. MRN 31859. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Robert Richardson",
+      "mrn": "31859",
+      "phone": "733-552-8211",
+      "email": "robert.richardson@blackwell.com",
+      "dob": "08/25/1984"
+    },
+    "codes": [
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Heather King seen today for review. hypertension and asthma stable. Contact heather.king@yang.com. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Heather King",
+      "mrn": "62973",
+      "phone": "552-539-2962",
+      "email": "heather.king@yang.com",
+      "dob": "03/22/1982"
+    },
+    "codes": [
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Elizabeth Hughes, MRN: 72460, DOB: 06/21/1985. Follow-up visit. Known pneumonia and type 2 diabetes and asthma. Phone 202-103-4581. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Elizabeth Hughes",
+      "mrn": "72460",
+      "phone": "202-103-4581",
+      "email": "elizabeth.hughes@rivera-johnson.net",
+      "dob": "06/21/1985"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Jay Campbell seen today for review. type 2 diabetes and urinary tract infection and asthma stable. Contact jay.campbell@nelson.com. no hypertension. Jay Campbell agreed with the plan.",
+    "identifiers": {
+      "name": "Jay Campbell",
+      "mrn": "26968",
+      "phone": "721-847-6125",
+      "email": "jay.campbell@nelson.com",
+      "dob": "02/24/1999"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Caleb Stafford, MRN: 47235, DOB: 06/19/1958. Follow-up visit. Known pneumonia and hypertension. Phone 102-572-3670. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Caleb Stafford",
+      "mrn": "47235",
+      "phone": "102-572-3670",
+      "email": "caleb.stafford@bell-castro.net",
+      "dob": "06/19/1958"
+    },
+    "codes": [
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Linda Duncan seen today for review. urinary tract infection stable. Contact linda.duncan@collins.com. without pneumonia.",
+    "identifiers": {
+      "name": "Linda Duncan",
+      "mrn": "86314",
+      "phone": "020-281-1450",
+      "email": "linda.duncan@collins.com",
+      "dob": "07/24/2004"
+    },
+    "codes": [
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Elizabeth Lang seen today for review. asthma stable. Contact elizabeth.lang@price-wood.com. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Elizabeth Lang",
+      "mrn": "67249",
+      "phone": "766-490-0923",
+      "email": "elizabeth.lang@price-wood.com",
+      "dob": "12/12/1991"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Judith Lewis seen today for review. hypertension and urinary tract infection and pneumonia stable. Contact judith.lewis@jordan.biz. no hypertension.",
+    "identifiers": {
+      "name": "Judith Lewis",
+      "mrn": "92747",
+      "phone": "843-251-2255",
+      "email": "judith.lewis@jordan.biz",
+      "dob": "02/19/1990"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Brianna Riley seen today for review. hypertension and pneumonia stable. Contact brianna.riley@warren-smith.biz. without pneumonia. Brianna Riley agreed with the plan.",
+    "identifiers": {
+      "name": "Brianna Riley",
+      "mrn": "92298",
+      "phone": "737-624-1652",
+      "email": "brianna.riley@warren-smith.biz",
+      "dob": "05/10/1959"
+    },
+    "codes": [
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Shawn Ortega seen today for review. hypertension stable. Contact shawn.ortega@burton.org. no hypertension.",
+    "identifiers": {
+      "name": "Shawn Ortega",
+      "mrn": "35499",
+      "phone": "683-698-9080",
+      "email": "shawn.ortega@burton.org",
+      "dob": "07/01/1966"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Mr. Taylor Arnold seen today for review. type 2 diabetes and asthma stable. Contact taylor.arnold@brown-berg.com. negative for urinary tract infection. Taylor Arnold agreed with the plan.",
+    "identifiers": {
+      "name": "Taylor Arnold",
+      "mrn": "44012",
+      "phone": "271-322-1184",
+      "email": "taylor.arnold@brown-berg.com",
+      "dob": "09/17/1939"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Scott Sherman\nAddress: 2960 Winters Cliffs\nAssessment: type 2 diabetes and urinary tract infection and asthma. without pneumonia. Date of service 2026-01-29. Scott Sherman agreed with the plan.",
+    "identifiers": {
+      "name": "Scott Sherman",
+      "mrn": "92312",
+      "phone": "170-812-5215",
+      "email": "scott.sherman@mcfarland.com",
+      "dob": "11/21/1999"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Deborah Patel, MRN: 76280, DOB: 12/24/1958. Follow-up visit. Known pneumonia and hypertension and type 2 diabetes. Phone 386-605-5493. negative for urinary tract infection. Deborah Patel agreed with the plan.",
+    "identifiers": {
+      "name": "Deborah Patel",
+      "mrn": "76280",
+      "phone": "386-605-5493",
+      "email": "deborah.patel@clark.org",
+      "dob": "12/24/1958"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. James Jones seen today for review. urinary tract infection and asthma and type 2 diabetes stable. Contact james.jones@padilla.com. no hypertension. James Jones agreed with the plan.",
+    "identifiers": {
+      "name": "James Jones",
+      "mrn": "82308",
+      "phone": "596-472-8115",
+      "email": "james.jones@padilla.com",
+      "dob": "04/16/1955"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Shane Brown, MRN: 32608, DOB: 06/23/1966. Follow-up visit. Known pneumonia. Phone 497-440-9306. denies asthma. Shane Brown agreed with the plan.",
+    "identifiers": {
+      "name": "Shane Brown",
+      "mrn": "32608",
+      "phone": "497-440-9306",
+      "email": "shane.brown@anderson-woodard.com",
+      "dob": "06/23/1966"
+    },
+    "codes": [
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Anthony Lawrence presents with symptoms. History notable for type 2 diabetes and urinary tract infection. MRN 99255. without pneumonia.",
+    "identifiers": {
+      "name": "Anthony Lawrence",
+      "mrn": "99255",
+      "phone": "027-152-7857",
+      "email": "anthony.lawrence@pearson.com",
+      "dob": "10/14/1986"
+    },
+    "codes": [
+      "E11.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Mitchell Thomas, MRN: 77539, DOB: 09/09/1964. Follow-up visit. Known asthma and hypertension. Phone 102-947-1672. without pneumonia.",
+    "identifiers": {
+      "name": "Mitchell Thomas",
+      "mrn": "77539",
+      "phone": "102-947-1672",
+      "email": "mitchell.thomas@watson.com",
+      "dob": "09/09/1964"
+    },
+    "codes": [
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "William Martinez presents with symptoms. History notable for hypertension. MRN 15357. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "William Martinez",
+      "mrn": "15357",
+      "phone": "218-844-5339",
+      "email": "william.martinez@owens-fritz.org",
+      "dob": "05/03/1977"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Patient: Jennifer Wilson, MRN: 58522, DOB: 11/29/1995. Follow-up visit. Known hypertension and urinary tract infection. Phone 321-624-8906. denies asthma.",
+    "identifiers": {
+      "name": "Jennifer Wilson",
+      "mrn": "58522",
+      "phone": "321-624-8906",
+      "email": "jennifer.wilson@snyder.com",
+      "dob": "11/29/1995"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Ashley Mason\nAddress: 48028 Kelley Locks\nAssessment: asthma and hypertension and pneumonia. without pneumonia. Date of service 2026-09-21. Ashley Mason agreed with the plan.",
+    "identifiers": {
+      "name": "Ashley Mason",
+      "mrn": "21118",
+      "phone": "644-943-5167",
+      "email": "ashley.mason@howard-jordan.info",
+      "dob": "11/12/2001"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Emily Marquez\nAddress: 9543 Leslie Parks\nAssessment: hypertension and asthma and type 2 diabetes. without pneumonia. Date of service 2026-02-07.",
+    "identifiers": {
+      "name": "Emily Marquez",
+      "mrn": "25240",
+      "phone": "573-887-0569",
+      "email": "emily.marquez@smith.com",
+      "dob": "03/31/1938"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Katherine Cooper\nAddress: 52244 Yvonne Overpass Apt. 691\nAssessment: hypertension and urinary tract infection. denies asthma. Date of service 2026-06-27.",
+    "identifiers": {
+      "name": "Katherine Cooper",
+      "mrn": "33796",
+      "phone": "349-465-6149",
+      "email": "katherine.cooper@davis.com",
+      "dob": "05/10/1998"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Sara Fowler seen today for review. pneumonia stable. Contact sara.fowler@jennings-taylor.info. denies asthma. Sara Fowler agreed with the plan.",
+    "identifiers": {
+      "name": "Sara Fowler",
+      "mrn": "23220",
+      "phone": "398-076-5121",
+      "email": "sara.fowler@jennings-taylor.info",
+      "dob": "07/06/1937"
+    },
+    "codes": [
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Mario Taylor seen today for review. pneumonia and hypertension stable. Contact mario.taylor@norris-hughes.info. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Mario Taylor",
+      "mrn": "97306",
+      "phone": "247-606-6377",
+      "email": "mario.taylor@norris-hughes.info",
+      "dob": "01/17/2005"
+    },
+    "codes": [
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Michael Vargas presents with symptoms. History notable for asthma and hypertension and pneumonia. MRN 61064. denies asthma.",
+    "identifiers": {
+      "name": "Michael Vargas",
+      "mrn": "61064",
+      "phone": "679-975-9276",
+      "email": "michael.vargas@davis-burns.com",
+      "dob": "11/03/1973"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Christina Hansen seen today for review. urinary tract infection stable. Contact christina.hansen@boone.org. denies asthma. Christina Hansen agreed with the plan.",
+    "identifiers": {
+      "name": "Christina Hansen",
+      "mrn": "12991",
+      "phone": "876-713-2914",
+      "email": "christina.hansen@boone.org",
+      "dob": "02/11/2007"
+    },
+    "codes": [
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Kevin Wright, MRN: 62632, DOB: 04/14/1947. Follow-up visit. Known type 2 diabetes and hypertension and pneumonia. Phone 389-512-3925. negative for urinary tract infection. Kevin Wright agreed with the plan.",
+    "identifiers": {
+      "name": "Kevin Wright",
+      "mrn": "62632",
+      "phone": "389-512-3925",
+      "email": "kevin.wright@nguyen.com",
+      "dob": "04/14/1947"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Joseph Mitchell presents with symptoms. History notable for pneumonia and asthma. MRN 42884. denies asthma.",
+    "identifiers": {
+      "name": "Joseph Mitchell",
+      "mrn": "42884",
+      "phone": "826-282-9182",
+      "email": "joseph.mitchell@christensen.com",
+      "dob": "02/23/1956"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Nicole Jones presents with symptoms. History notable for urinary tract infection and type 2 diabetes and hypertension. MRN 19987. no hypertension.",
+    "identifiers": {
+      "name": "Nicole Jones",
+      "mrn": "19987",
+      "phone": "914-019-1354",
+      "email": "nicole.jones@wiggins-brown.com",
+      "dob": "01/10/1976"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Alison Gomez presents with symptoms. History notable for urinary tract infection and type 2 diabetes. MRN 32167. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Alison Gomez",
+      "mrn": "32167",
+      "phone": "316-273-1708",
+      "email": "alison.gomez@davis.com",
+      "dob": "04/23/1972"
+    },
+    "codes": [
+      "E11.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Robin Rodriguez\nAddress: 5535 Smith Trail\nAssessment: urinary tract infection and pneumonia. without pneumonia. Date of service 2026-03-19.",
+    "identifiers": {
+      "name": "Robin Rodriguez",
+      "mrn": "79043",
+      "phone": "406-022-9891",
+      "email": "robin.rodriguez@watson.biz",
+      "dob": "08/18/1957"
+    },
+    "codes": [
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Brandon Wood seen today for review. pneumonia and urinary tract infection and type 2 diabetes stable. Contact brandon.wood@mendoza-bowers.com. denies asthma.",
+    "identifiers": {
+      "name": "Brandon Wood",
+      "mrn": "45357",
+      "phone": "857-362-3234",
+      "email": "brandon.wood@mendoza-bowers.com",
+      "dob": "08/26/1988"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Jesse Turner, MRN: 92967, DOB: 12/11/1959. Follow-up visit. Known asthma. Phone 303-811-8373. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Jesse Turner",
+      "mrn": "92967",
+      "phone": "303-811-8373",
+      "email": "jesse.turner@perry.com",
+      "dob": "12/11/1959"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Carlos Mccann, MRN: 62136, DOB: 06/13/2002. Follow-up visit. Known urinary tract infection. Phone 070-616-2213. without pneumonia.",
+    "identifiers": {
+      "name": "Carlos Mccann",
+      "mrn": "62136",
+      "phone": "070-616-2213",
+      "email": "carlos.mccann@humphrey.com",
+      "dob": "06/13/2002"
+    },
+    "codes": [
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Sandra Thomas, MRN: 39321, DOB: 06/12/1999. Follow-up visit. Known asthma and pneumonia. Phone 250-145-2914. no hypertension.",
+    "identifiers": {
+      "name": "Sandra Thomas",
+      "mrn": "39321",
+      "phone": "250-145-2914",
+      "email": "sandra.thomas@boyd.net",
+      "dob": "06/12/1999"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Carrie Singleton, MRN: 71387, DOB: 10/30/1969. Follow-up visit. Known hypertension. Phone 327-079-6804. denies asthma.",
+    "identifiers": {
+      "name": "Carrie Singleton",
+      "mrn": "71387",
+      "phone": "327-079-6804",
+      "email": "carrie.singleton@williams.com",
+      "dob": "10/30/1969"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Name: Kevin Williams\nAddress: 7392 Hicks Heights Apt. 538\nAssessment: hypertension. denies asthma. Date of service 2026-07-07.",
+    "identifiers": {
+      "name": "Kevin Williams",
+      "mrn": "69728",
+      "phone": "985-749-5252",
+      "email": "kevin.williams@carpenter.info",
+      "dob": "11/27/1954"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Eric Meza presents with symptoms. History notable for asthma and hypertension. MRN 26295. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Eric Meza",
+      "mrn": "26295",
+      "phone": "105-781-7860",
+      "email": "eric.meza@crawford.org",
+      "dob": "08/13/1956"
+    },
+    "codes": [
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Jimmy Calderon\nAddress: 37423 Pacheco Unions Apt. 174\nAssessment: asthma and pneumonia and urinary tract infection. no hypertension. Date of service 2026-08-19.",
+    "identifiers": {
+      "name": "Jimmy Calderon",
+      "mrn": "93832",
+      "phone": "438-165-8017",
+      "email": "jimmy.calderon@hernandez-stewart.net",
+      "dob": "02/18/1994"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Bradley Stokes\nAddress: 066 Floyd Well\nAssessment: type 2 diabetes and pneumonia. without pneumonia. Date of service 2026-01-01. Bradley Stokes agreed with the plan.",
+    "identifiers": {
+      "name": "Bradley Stokes",
+      "mrn": "41249",
+      "phone": "579-612-1446",
+      "email": "bradley.stokes@king-bishop.com",
+      "dob": "09/07/2005"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Joseph Snyder seen today for review. urinary tract infection and hypertension and pneumonia stable. Contact joseph.snyder@benson.biz. without pneumonia. Joseph Snyder agreed with the plan.",
+    "identifiers": {
+      "name": "Joseph Snyder",
+      "mrn": "99789",
+      "phone": "365-002-7339",
+      "email": "joseph.snyder@benson.biz",
+      "dob": "05/14/2003"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Sydney Schroeder, MRN: 42631, DOB: 03/18/1960. Follow-up visit. Known hypertension and type 2 diabetes and pneumonia. Phone 438-710-1807. denies asthma. Sydney Schroeder agreed with the plan.",
+    "identifiers": {
+      "name": "Sydney Schroeder",
+      "mrn": "42631",
+      "phone": "438-710-1807",
+      "email": "sydney.schroeder@fox.com",
+      "dob": "03/18/1960"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Patient: Stacy Bowman, MRN: 65730, DOB: 02/18/1966. Follow-up visit. Known urinary tract infection. Phone 637-116-6768. denies asthma. Stacy Bowman agreed with the plan.",
+    "identifiers": {
+      "name": "Stacy Bowman",
+      "mrn": "65730",
+      "phone": "637-116-6768",
+      "email": "stacy.bowman@middleton.org",
+      "dob": "02/18/1966"
+    },
+    "codes": [
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Ryan Rodriguez seen today for review. type 2 diabetes stable. Contact ryan.rodriguez@jimenez-glover.com. no hypertension.",
+    "identifiers": {
+      "name": "Ryan Rodriguez",
+      "mrn": "46475",
+      "phone": "408-104-7972",
+      "email": "ryan.rodriguez@jimenez-glover.com",
+      "dob": "07/19/1970"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  },
+  {
+    "note": "Name: Andre Jones\nAddress: 634 Lacey Station Suite 735\nAssessment: asthma and pneumonia. no hypertension. Date of service 2026-08-02.",
+    "identifiers": {
+      "name": "Andre Jones",
+      "mrn": "58913",
+      "phone": "791-337-9515",
+      "email": "andre.jones@johnson-conley.net",
+      "dob": "06/04/1964"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Jamie Graham seen today for review. type 2 diabetes stable. Contact jamie.graham@hurst.biz. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Jamie Graham",
+      "mrn": "27480",
+      "phone": "064-917-7876",
+      "email": "jamie.graham@hurst.biz",
+      "dob": "04/20/1951"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  },
+  {
+    "note": "Name: Caroline Miller\nAddress: 79036 Brittany Station Suite 597\nAssessment: hypertension and pneumonia. no hypertension. Date of service 2026-03-23. Caroline Miller agreed with the plan.",
+    "identifiers": {
+      "name": "Caroline Miller",
+      "mrn": "43826",
+      "phone": "596-065-6419",
+      "email": "caroline.miller@walker-sanders.com",
+      "dob": "09/20/1978"
+    },
+    "codes": [
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Name: Janet Hoffman\nAddress: 6219 Steven Pines Suite 904\nAssessment: pneumonia and type 2 diabetes. negative for urinary tract infection. Date of service 2026-04-24. Janet Hoffman agreed with the plan.",
+    "identifiers": {
+      "name": "Janet Hoffman",
+      "mrn": "34099",
+      "phone": "029-580-4958",
+      "email": "janet.hoffman@murphy-nielsen.info",
+      "dob": "08/14/1975"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Name: Katherine Jones\nAddress: 9332 David Corner\nAssessment: urinary tract infection and asthma. negative for urinary tract infection. Date of service 2026-07-25.",
+    "identifiers": {
+      "name": "Katherine Jones",
+      "mrn": "20881",
+      "phone": "253-642-5988",
+      "email": "katherine.jones@ryan.biz",
+      "dob": "10/23/1957"
+    },
+    "codes": [
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Anthony Lee, MRN: 11218, DOB: 05/29/1937. Follow-up visit. Known pneumonia. Phone 090-453-9555. no hypertension.",
+    "identifiers": {
+      "name": "Anthony Lee",
+      "mrn": "11218",
+      "phone": "090-453-9555",
+      "email": "anthony.lee@singleton.com",
+      "dob": "05/29/1937"
+    },
+    "codes": [
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Name: Luis Holland\nAddress: 0370 Katie Springs Apt. 150\nAssessment: pneumonia and urinary tract infection and type 2 diabetes. no hypertension. Date of service 2026-07-11.",
+    "identifiers": {
+      "name": "Luis Holland",
+      "mrn": "74849",
+      "phone": "762-292-7595",
+      "email": "luis.holland@carrillo.com",
+      "dob": "03/03/2003"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Kathleen Vasquez\nAddress: 053 Smith Highway\nAssessment: type 2 diabetes and pneumonia. negative for urinary tract infection. Date of service 2026-04-07.",
+    "identifiers": {
+      "name": "Kathleen Vasquez",
+      "mrn": "52869",
+      "phone": "611-609-2840",
+      "email": "kathleen.vasquez@hernandez.com",
+      "dob": "10/24/1974"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Alexis Diaz seen today for review. pneumonia and hypertension stable. Contact alexis.diaz@eaton.info. negative for urinary tract infection. Alexis Diaz agreed with the plan.",
+    "identifiers": {
+      "name": "Alexis Diaz",
+      "mrn": "49946",
+      "phone": "242-121-7834",
+      "email": "alexis.diaz@eaton.info",
+      "dob": "04/14/1966"
+    },
+    "codes": [
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Kristina Stafford presents with symptoms. History notable for pneumonia. MRN 57915. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Kristina Stafford",
+      "mrn": "57915",
+      "phone": "044-600-9748",
+      "email": "kristina.stafford@richardson.info",
+      "dob": "03/25/1952"
+    },
+    "codes": [
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Matthew Simmons seen today for review. asthma and hypertension stable. Contact matthew.simmons@fowler.biz. no hypertension. Matthew Simmons agreed with the plan.",
+    "identifiers": {
+      "name": "Matthew Simmons",
+      "mrn": "83899",
+      "phone": "048-518-1026",
+      "email": "matthew.simmons@fowler.biz",
+      "dob": "06/24/1976"
+    },
+    "codes": [
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Denise Burnett seen today for review. type 2 diabetes and hypertension stable. Contact denise.burnett@rosario.net. denies asthma.",
+    "identifiers": {
+      "name": "Denise Burnett",
+      "mrn": "69555",
+      "phone": "900-339-1345",
+      "email": "denise.burnett@rosario.net",
+      "dob": "02/18/2008"
+    },
+    "codes": [
+      "E11.9",
+      "I10"
+    ]
+  },
+  {
+    "note": "Patient: Jessica Baldwin, MRN: 12928, DOB: 08/17/1993. Follow-up visit. Known asthma and type 2 diabetes and pneumonia. Phone 027-542-5190. without pneumonia.",
+    "identifiers": {
+      "name": "Jessica Baldwin",
+      "mrn": "12928",
+      "phone": "027-542-5190",
+      "email": "jessica.baldwin@williams.com",
+      "dob": "08/17/1993"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Heather James seen today for review. type 2 diabetes and pneumonia and urinary tract infection stable. Contact heather.james@schmidt.com. denies asthma. Heather James agreed with the plan.",
+    "identifiers": {
+      "name": "Heather James",
+      "mrn": "45867",
+      "phone": "165-700-6796",
+      "email": "heather.james@schmidt.com",
+      "dob": "03/13/2004"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Cathy Harris\nAddress: 250 Bryan Drive Suite 290\nAssessment: hypertension and urinary tract infection. negative for urinary tract infection. Date of service 2026-10-16.",
+    "identifiers": {
+      "name": "Cathy Harris",
+      "mrn": "95066",
+      "phone": "937-370-1802",
+      "email": "cathy.harris@reyes.biz",
+      "dob": "09/17/1936"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "John Holland presents with symptoms. History notable for pneumonia and urinary tract infection. MRN 61692. no hypertension.",
+    "identifiers": {
+      "name": "John Holland",
+      "mrn": "61692",
+      "phone": "025-909-1342",
+      "email": "john.holland@cole.com",
+      "dob": "06/20/1946"
+    },
+    "codes": [
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Edward Carroll, MRN: 19498, DOB: 12/18/1972. Follow-up visit. Known urinary tract infection and type 2 diabetes and hypertension. Phone 607-409-0350. without pneumonia.",
+    "identifiers": {
+      "name": "Edward Carroll",
+      "mrn": "19498",
+      "phone": "607-409-0350",
+      "email": "edward.carroll@barron-matthews.biz",
+      "dob": "12/18/1972"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: John Shea, MRN: 21698, DOB: 02/16/1943. Follow-up visit. Known urinary tract infection and type 2 diabetes. Phone 265-418-1659. without pneumonia.",
+    "identifiers": {
+      "name": "John Shea",
+      "mrn": "21698",
+      "phone": "265-418-1659",
+      "email": "john.shea@rhodes.com",
+      "dob": "02/16/1943"
+    },
+    "codes": [
+      "E11.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Kimberly Brown presents with symptoms. History notable for hypertension and urinary tract infection. MRN 65261. no hypertension.",
+    "identifiers": {
+      "name": "Kimberly Brown",
+      "mrn": "65261",
+      "phone": "435-963-4704",
+      "email": "kimberly.brown@diaz.org",
+      "dob": "10/13/1981"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Aaron Murphy\nAddress: 923 Christina Estates Apt. 662\nAssessment: asthma. negative for urinary tract infection. Date of service 2026-06-25. Aaron Murphy agreed with the plan.",
+    "identifiers": {
+      "name": "Aaron Murphy",
+      "mrn": "52058",
+      "phone": "801-637-2776",
+      "email": "aaron.murphy@stewart-sanders.com",
+      "dob": "12/22/1955"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. James Nunez seen today for review. pneumonia and type 2 diabetes stable. Contact james.nunez@everett-brown.com. without pneumonia.",
+    "identifiers": {
+      "name": "James Nunez",
+      "mrn": "17760",
+      "phone": "051-027-4487",
+      "email": "james.nunez@everett-brown.com",
+      "dob": "01/26/1962"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Debra Watson presents with symptoms. History notable for asthma. MRN 33518. denies asthma.",
+    "identifiers": {
+      "name": "Debra Watson",
+      "mrn": "33518",
+      "phone": "930-854-7467",
+      "email": "debra.watson@smith.com",
+      "dob": "12/28/1966"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Laura Roberts\nAddress: 2961 Kathryn Mills\nAssessment: type 2 diabetes and hypertension. no hypertension. Date of service 2026-07-29. Laura Roberts agreed with the plan.",
+    "identifiers": {
+      "name": "Laura Roberts",
+      "mrn": "14767",
+      "phone": "864-676-7511",
+      "email": "laura.roberts@miles.com",
+      "dob": "02/23/1969"
+    },
+    "codes": [
+      "E11.9",
+      "I10"
+    ]
+  },
+  {
+    "note": "Name: Lance Reyes\nAddress: 0526 Daniel Camp\nAssessment: asthma and hypertension and urinary tract infection. no hypertension. Date of service 2026-11-11.",
+    "identifiers": {
+      "name": "Lance Reyes",
+      "mrn": "40855",
+      "phone": "002-722-2211",
+      "email": "lance.reyes@leonard.org",
+      "dob": "06/12/2002"
+    },
+    "codes": [
+      "I10",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Martin Morales presents with symptoms. History notable for urinary tract infection and asthma and hypertension. MRN 50859. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Martin Morales",
+      "mrn": "50859",
+      "phone": "309-277-4463",
+      "email": "martin.morales@rosario.info",
+      "dob": "01/28/2003"
+    },
+    "codes": [
+      "I10",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Amy Campbell presents with symptoms. History notable for urinary tract infection and type 2 diabetes and hypertension. MRN 54836. no hypertension. Amy Campbell agreed with the plan.",
+    "identifiers": {
+      "name": "Amy Campbell",
+      "mrn": "54836",
+      "phone": "852-943-5637",
+      "email": "amy.campbell@wilson.com",
+      "dob": "05/23/1948"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Catherine Anderson seen today for review. urinary tract infection and pneumonia stable. Contact catherine.anderson@holland.info. denies asthma.",
+    "identifiers": {
+      "name": "Catherine Anderson",
+      "mrn": "27601",
+      "phone": "989-966-3565",
+      "email": "catherine.anderson@holland.info",
+      "dob": "03/06/1987"
+    },
+    "codes": [
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Lauren Morse seen today for review. asthma and hypertension stable. Contact lauren.morse@gomez.com. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Lauren Morse",
+      "mrn": "71950",
+      "phone": "612-818-4731",
+      "email": "lauren.morse@gomez.com",
+      "dob": "12/24/1957"
+    },
+    "codes": [
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Chris Conner\nAddress: 912 Morton Course Apt. 818\nAssessment: pneumonia. no hypertension. Date of service 2026-01-30.",
+    "identifiers": {
+      "name": "Chris Conner",
+      "mrn": "52179",
+      "phone": "037-797-5508",
+      "email": "chris.conner@gonzales-scott.com",
+      "dob": "11/27/1979"
+    },
+    "codes": [
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Patient: Robert Moore, MRN: 16939, DOB: 04/18/2008. Follow-up visit. Known urinary tract infection. Phone 944-170-7251. no hypertension. Robert Moore agreed with the plan.",
+    "identifiers": {
+      "name": "Robert Moore",
+      "mrn": "16939",
+      "phone": "944-170-7251",
+      "email": "robert.moore@stone.net",
+      "dob": "04/18/2008"
+    },
+    "codes": [
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Linda Smith\nAddress: 293 Smith Forest\nAssessment: type 2 diabetes. without pneumonia. Date of service 2026-09-26.",
+    "identifiers": {
+      "name": "Linda Smith",
+      "mrn": "29533",
+      "phone": "131-549-2658",
+      "email": "linda.smith@harris.info",
+      "dob": "11/13/1975"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  },
+  {
+    "note": "Patient: Noah Moore, MRN: 79199, DOB: 03/04/1996. Follow-up visit. Known asthma. Phone 727-931-5263. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Noah Moore",
+      "mrn": "79199",
+      "phone": "727-931-5263",
+      "email": "noah.moore@browning.com",
+      "dob": "03/04/1996"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Heidi Moore presents with symptoms. History notable for urinary tract infection and pneumonia and type 2 diabetes. MRN 86891. no hypertension. Heidi Moore agreed with the plan.",
+    "identifiers": {
+      "name": "Heidi Moore",
+      "mrn": "86891",
+      "phone": "950-816-3501",
+      "email": "heidi.moore@walker-wilson.com",
+      "dob": "04/08/1974"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Kathy Hall, MRN: 99421, DOB: 09/25/1988. Follow-up visit. Known asthma. Phone 133-657-1407. no hypertension.",
+    "identifiers": {
+      "name": "Kathy Hall",
+      "mrn": "99421",
+      "phone": "133-657-1407",
+      "email": "kathy.hall@kelly-ruiz.com",
+      "dob": "09/25/1988"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Linda Martinez\nAddress: 96163 Simon Junctions Suite 371\nAssessment: hypertension and pneumonia. without pneumonia. Date of service 2026-09-07.",
+    "identifiers": {
+      "name": "Linda Martinez",
+      "mrn": "78900",
+      "phone": "719-531-6800",
+      "email": "linda.martinez@mitchell-carter.biz",
+      "dob": "12/23/1957"
+    },
+    "codes": [
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Patient: Kyle Nelson, MRN: 82927, DOB: 03/12/1957. Follow-up visit. Known asthma and type 2 diabetes. Phone 984-507-0597. without pneumonia.",
+    "identifiers": {
+      "name": "Kyle Nelson",
+      "mrn": "82927",
+      "phone": "984-507-0597",
+      "email": "kyle.nelson@davis-dean.com",
+      "dob": "03/12/1957"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Francisco Barnes presents with symptoms. History notable for asthma and urinary tract infection and pneumonia. MRN 23861. denies asthma. Francisco Barnes agreed with the plan.",
+    "identifiers": {
+      "name": "Francisco Barnes",
+      "mrn": "23861",
+      "phone": "871-564-8624",
+      "email": "francisco.barnes@rubio-merritt.net",
+      "dob": "03/20/1965"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Stacy Martin presents with symptoms. History notable for asthma and hypertension and urinary tract infection. MRN 59430. denies asthma.",
+    "identifiers": {
+      "name": "Stacy Martin",
+      "mrn": "59430",
+      "phone": "271-460-5364",
+      "email": "stacy.martin@ortiz.com",
+      "dob": "12/25/1976"
+    },
+    "codes": [
+      "I10",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: David Griffin\nAddress: 337 Obrien Keys\nAssessment: hypertension and pneumonia and asthma. negative for urinary tract infection. Date of service 2026-07-31.",
+    "identifiers": {
+      "name": "David Griffin",
+      "mrn": "37096",
+      "phone": "812-566-8786",
+      "email": "david.griffin@carlson.net",
+      "dob": "11/03/1955"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Kelly Delgado presents with symptoms. History notable for type 2 diabetes and pneumonia and urinary tract infection. MRN 61406. no hypertension.",
+    "identifiers": {
+      "name": "Kelly Delgado",
+      "mrn": "61406",
+      "phone": "303-131-1481",
+      "email": "kelly.delgado@rasmussen-mata.org",
+      "dob": "05/03/1945"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Susan Dodson presents with symptoms. History notable for pneumonia and asthma. MRN 53174. without pneumonia.",
+    "identifiers": {
+      "name": "Susan Dodson",
+      "mrn": "53174",
+      "phone": "659-100-6087",
+      "email": "susan.dodson@english.info",
+      "dob": "06/05/2003"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Nicholas Baldwin seen today for review. hypertension stable. Contact nicholas.baldwin@taylor.org. denies asthma.",
+    "identifiers": {
+      "name": "Nicholas Baldwin",
+      "mrn": "22094",
+      "phone": "327-781-2063",
+      "email": "nicholas.baldwin@taylor.org",
+      "dob": "06/16/1965"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Patient: Danielle Bailey, MRN: 33493, DOB: 02/01/2008. Follow-up visit. Known hypertension. Phone 807-971-7709. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Danielle Bailey",
+      "mrn": "33493",
+      "phone": "807-971-7709",
+      "email": "danielle.bailey@guzman.com",
+      "dob": "02/01/2008"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Mr. Samantha Brown seen today for review. type 2 diabetes and urinary tract infection and asthma stable. Contact samantha.brown@henderson.com. denies asthma.",
+    "identifiers": {
+      "name": "Samantha Brown",
+      "mrn": "87691",
+      "phone": "541-194-6119",
+      "email": "samantha.brown@henderson.com",
+      "dob": "06/25/1977"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Patricia Crane seen today for review. type 2 diabetes and pneumonia stable. Contact patricia.crane@moore.org. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Patricia Crane",
+      "mrn": "66860",
+      "phone": "924-605-2318",
+      "email": "patricia.crane@moore.org",
+      "dob": "07/12/1992"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Patient: Shawn Simmons, MRN: 29395, DOB: 09/24/1997. Follow-up visit. Known asthma and urinary tract infection and hypertension. Phone 834-519-9171. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Shawn Simmons",
+      "mrn": "29395",
+      "phone": "834-519-9171",
+      "email": "shawn.simmons@rush.net",
+      "dob": "09/24/1997"
+    },
+    "codes": [
+      "I10",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Adam Mcdonald\nAddress: 3301 Karen Trail Suite 072\nAssessment: pneumonia and hypertension and urinary tract infection. denies asthma. Date of service 2026-10-19.",
+    "identifiers": {
+      "name": "Adam Mcdonald",
+      "mrn": "90359",
+      "phone": "526-592-6884",
+      "email": "adam.mcdonald@watts-carter.com",
+      "dob": "11/02/2008"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Janice Cook seen today for review. asthma and type 2 diabetes stable. Contact janice.cook@fisher.com. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Janice Cook",
+      "mrn": "54857",
+      "phone": "443-130-2027",
+      "email": "janice.cook@fisher.com",
+      "dob": "05/02/1964"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Melissa Aguirre\nAddress: 1503 Allen Walk\nAssessment: urinary tract infection. no hypertension. Date of service 2026-07-31.",
+    "identifiers": {
+      "name": "Melissa Aguirre",
+      "mrn": "48466",
+      "phone": "428-713-8705",
+      "email": "melissa.aguirre@jones.com",
+      "dob": "09/08/1950"
+    },
+    "codes": [
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Colin Ferguson seen today for review. hypertension and pneumonia and asthma stable. Contact colin.ferguson@spencer.com. no hypertension.",
+    "identifiers": {
+      "name": "Colin Ferguson",
+      "mrn": "49123",
+      "phone": "714-713-9640",
+      "email": "colin.ferguson@spencer.com",
+      "dob": "12/24/1939"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Crystal Ford, MRN: 77637, DOB: 06/10/1988. Follow-up visit. Known hypertension and type 2 diabetes and pneumonia. Phone 321-783-0327. no hypertension. Crystal Ford agreed with the plan.",
+    "identifiers": {
+      "name": "Crystal Ford",
+      "mrn": "77637",
+      "phone": "321-783-0327",
+      "email": "crystal.ford@reed.info",
+      "dob": "06/10/1988"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Name: Travis Johnson\nAddress: 3449 Vanessa Port Apt. 898\nAssessment: asthma and pneumonia and hypertension. denies asthma. Date of service 2026-01-22. Travis Johnson agreed with the plan.",
+    "identifiers": {
+      "name": "Travis Johnson",
+      "mrn": "72637",
+      "phone": "727-355-3077",
+      "email": "travis.johnson@gonzales-taylor.com",
+      "dob": "03/22/1999"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Steven Miller\nAddress: 81612 Margaret Ridge\nAssessment: hypertension and urinary tract infection. denies asthma. Date of service 2026-01-24. Steven Miller agreed with the plan.",
+    "identifiers": {
+      "name": "Steven Miller",
+      "mrn": "26256",
+      "phone": "316-787-0199",
+      "email": "steven.miller@morrow-frazier.com",
+      "dob": "05/10/1966"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Sean Becker\nAddress: 568 Taylor Forest\nAssessment: hypertension and type 2 diabetes and asthma. without pneumonia. Date of service 2026-01-06. Sean Becker agreed with the plan.",
+    "identifiers": {
+      "name": "Sean Becker",
+      "mrn": "53870",
+      "phone": "999-800-3561",
+      "email": "sean.becker@harding.com",
+      "dob": "11/12/1995"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Anthony Aguirre presents with symptoms. History notable for hypertension and urinary tract infection. MRN 85180. denies asthma. Anthony Aguirre agreed with the plan.",
+    "identifiers": {
+      "name": "Anthony Aguirre",
+      "mrn": "85180",
+      "phone": "205-953-2938",
+      "email": "anthony.aguirre@luna-hoffman.com",
+      "dob": "06/25/1999"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Jessica Wise, MRN: 33601, DOB: 05/21/1978. Follow-up visit. Known hypertension and pneumonia and asthma. Phone 331-132-7435. negative for urinary tract infection. Jessica Wise agreed with the plan.",
+    "identifiers": {
+      "name": "Jessica Wise",
+      "mrn": "33601",
+      "phone": "331-132-7435",
+      "email": "jessica.wise@poole.com",
+      "dob": "05/21/1978"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: John May, MRN: 64002, DOB: 12/16/1998. Follow-up visit. Known type 2 diabetes and hypertension. Phone 303-516-2848. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "John May",
+      "mrn": "64002",
+      "phone": "303-516-2848",
+      "email": "john.may@hoover.net",
+      "dob": "12/16/1998"
+    },
+    "codes": [
+      "E11.9",
+      "I10"
+    ]
+  },
+  {
+    "note": "Mr. Randy Mcintosh seen today for review. urinary tract infection and hypertension stable. Contact randy.mcintosh@jackson.org. without pneumonia.",
+    "identifiers": {
+      "name": "Randy Mcintosh",
+      "mrn": "32765",
+      "phone": "913-430-3128",
+      "email": "randy.mcintosh@jackson.org",
+      "dob": "04/13/1970"
+    },
+    "codes": [
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Kevin Adams presents with symptoms. History notable for type 2 diabetes. MRN 53528. no hypertension.",
+    "identifiers": {
+      "name": "Kevin Adams",
+      "mrn": "53528",
+      "phone": "344-567-8252",
+      "email": "kevin.adams@simpson.biz",
+      "dob": "12/09/1990"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  },
+  {
+    "note": "Ann Davis presents with symptoms. History notable for asthma. MRN 88655. without pneumonia.",
+    "identifiers": {
+      "name": "Ann Davis",
+      "mrn": "88655",
+      "phone": "067-726-8954",
+      "email": "ann.davis@johnson.com",
+      "dob": "02/26/1985"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Shane Little presents with symptoms. History notable for pneumonia and asthma. MRN 84026. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Shane Little",
+      "mrn": "84026",
+      "phone": "255-741-9878",
+      "email": "shane.little@sparks.biz",
+      "dob": "06/15/1969"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Jesse Kim presents with symptoms. History notable for type 2 diabetes and pneumonia and asthma. MRN 25383. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Jesse Kim",
+      "mrn": "25383",
+      "phone": "947-972-3985",
+      "email": "jesse.kim@scott-marquez.biz",
+      "dob": "09/07/1966"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Robin Graham presents with symptoms. History notable for pneumonia. MRN 52033. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Robin Graham",
+      "mrn": "52033",
+      "phone": "231-510-8040",
+      "email": "robin.graham@house.info",
+      "dob": "12/27/1952"
+    },
+    "codes": [
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Mr. Melissa Garza seen today for review. type 2 diabetes and hypertension and urinary tract infection stable. Contact melissa.garza@gonzalez.info. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Melissa Garza",
+      "mrn": "49944",
+      "phone": "937-557-1667",
+      "email": "melissa.garza@gonzalez.info",
+      "dob": "05/05/2002"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Brenda Potter seen today for review. asthma stable. Contact brenda.potter@rodriguez.net. denies asthma.",
+    "identifiers": {
+      "name": "Brenda Potter",
+      "mrn": "61999",
+      "phone": "537-738-2411",
+      "email": "brenda.potter@rodriguez.net",
+      "dob": "07/25/2008"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Sean Medina presents with symptoms. History notable for hypertension and type 2 diabetes. MRN 96093. without pneumonia.",
+    "identifiers": {
+      "name": "Sean Medina",
+      "mrn": "96093",
+      "phone": "683-012-1832",
+      "email": "sean.medina@hoffman.biz",
+      "dob": "03/08/1987"
+    },
+    "codes": [
+      "E11.9",
+      "I10"
+    ]
+  },
+  {
+    "note": "Patient: Michael Myers, MRN: 31512, DOB: 04/18/1992. Follow-up visit. Known asthma. Phone 074-827-9460. denies asthma. Michael Myers agreed with the plan.",
+    "identifiers": {
+      "name": "Michael Myers",
+      "mrn": "31512",
+      "phone": "074-827-9460",
+      "email": "michael.myers@flores.biz",
+      "dob": "04/18/1992"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Michael Berry, MRN: 27033, DOB: 11/08/2001. Follow-up visit. Known urinary tract infection. Phone 632-028-4507. negative for urinary tract infection. Michael Berry agreed with the plan.",
+    "identifiers": {
+      "name": "Michael Berry",
+      "mrn": "27033",
+      "phone": "632-028-4507",
+      "email": "michael.berry@jackson.info",
+      "dob": "11/08/2001"
+    },
+    "codes": [
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Kayla Roberts, MRN: 49225, DOB: 06/06/1993. Follow-up visit. Known pneumonia. Phone 776-997-6785. no hypertension.",
+    "identifiers": {
+      "name": "Kayla Roberts",
+      "mrn": "49225",
+      "phone": "776-997-6785",
+      "email": "kayla.roberts@odom.net",
+      "dob": "06/06/1993"
+    },
+    "codes": [
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Patient: Catherine Patterson, MRN: 68987, DOB: 05/12/1953. Follow-up visit. Known asthma and hypertension and urinary tract infection. Phone 402-575-8716. no hypertension.",
+    "identifiers": {
+      "name": "Catherine Patterson",
+      "mrn": "68987",
+      "phone": "402-575-8716",
+      "email": "catherine.patterson@chen.org",
+      "dob": "05/12/1953"
+    },
+    "codes": [
+      "I10",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Alex Ramirez seen today for review. pneumonia and urinary tract infection stable. Contact alex.ramirez@bass.com. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Alex Ramirez",
+      "mrn": "69621",
+      "phone": "211-402-1458",
+      "email": "alex.ramirez@bass.com",
+      "dob": "08/23/1970"
+    },
+    "codes": [
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Morgan White, MRN: 71949, DOB: 03/18/1957. Follow-up visit. Known hypertension. Phone 819-570-5733. without pneumonia. Morgan White agreed with the plan.",
+    "identifiers": {
+      "name": "Morgan White",
+      "mrn": "71949",
+      "phone": "819-570-5733",
+      "email": "morgan.white@fuller.com",
+      "dob": "03/18/1957"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Mr. Shawn Park seen today for review. type 2 diabetes and hypertension stable. Contact shawn.park@davis.com. no hypertension. Shawn Park agreed with the plan.",
+    "identifiers": {
+      "name": "Shawn Park",
+      "mrn": "56419",
+      "phone": "295-545-3366",
+      "email": "shawn.park@davis.com",
+      "dob": "10/20/1995"
+    },
+    "codes": [
+      "E11.9",
+      "I10"
+    ]
+  },
+  {
+    "note": "Name: Michael Joseph\nAddress: 507 Laura Branch Suite 012\nAssessment: type 2 diabetes and pneumonia and asthma. without pneumonia. Date of service 2026-10-29.",
+    "identifiers": {
+      "name": "Michael Joseph",
+      "mrn": "16553",
+      "phone": "317-467-6297",
+      "email": "michael.joseph@johnson.com",
+      "dob": "02/14/1967"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Luis Mcdaniel seen today for review. asthma and urinary tract infection stable. Contact luis.mcdaniel@nichols.com. denies asthma. Luis Mcdaniel agreed with the plan.",
+    "identifiers": {
+      "name": "Luis Mcdaniel",
+      "mrn": "27678",
+      "phone": "973-484-5553",
+      "email": "luis.mcdaniel@nichols.com",
+      "dob": "03/23/1947"
+    },
+    "codes": [
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Danny Johnson seen today for review. hypertension stable. Contact danny.johnson@hunter.com. without pneumonia.",
+    "identifiers": {
+      "name": "Danny Johnson",
+      "mrn": "50260",
+      "phone": "217-182-7246",
+      "email": "danny.johnson@hunter.com",
+      "dob": "03/04/1974"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Mr. Sheena Cooke seen today for review. pneumonia and urinary tract infection and hypertension stable. Contact sheena.cooke@carter.biz. denies asthma.",
+    "identifiers": {
+      "name": "Sheena Cooke",
+      "mrn": "75723",
+      "phone": "492-712-7780",
+      "email": "sheena.cooke@carter.biz",
+      "dob": "08/16/1975"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Kimberly Turner presents with symptoms. History notable for hypertension and pneumonia and type 2 diabetes. MRN 33666. denies asthma.",
+    "identifiers": {
+      "name": "Kimberly Turner",
+      "mrn": "33666",
+      "phone": "081-969-6157",
+      "email": "kimberly.turner@lowe.com",
+      "dob": "10/07/2008"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Name: Jessica Townsend\nAddress: 097 Dixon Loop\nAssessment: type 2 diabetes and urinary tract infection and asthma. without pneumonia. Date of service 2026-10-16.",
+    "identifiers": {
+      "name": "Jessica Townsend",
+      "mrn": "67716",
+      "phone": "666-707-2482",
+      "email": "jessica.townsend@hunter.info",
+      "dob": "07/29/2006"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Leslie Barr seen today for review. hypertension stable. Contact leslie.barr@martin.info. without pneumonia. Leslie Barr agreed with the plan.",
+    "identifiers": {
+      "name": "Leslie Barr",
+      "mrn": "84522",
+      "phone": "096-271-2827",
+      "email": "leslie.barr@martin.info",
+      "dob": "04/30/1972"
+    },
+    "codes": [
+      "I10"
+    ]
+  },
+  {
+    "note": "Patient: Debra Owens, MRN: 46582, DOB: 05/31/1990. Follow-up visit. Known urinary tract infection and type 2 diabetes and asthma. Phone 414-190-1242. no hypertension.",
+    "identifiers": {
+      "name": "Debra Owens",
+      "mrn": "46582",
+      "phone": "414-190-1242",
+      "email": "debra.owens@salinas.com",
+      "dob": "05/31/1990"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Jerry Miller seen today for review. type 2 diabetes and asthma stable. Contact jerry.miller@walker.info. denies asthma. Jerry Miller agreed with the plan.",
+    "identifiers": {
+      "name": "Jerry Miller",
+      "mrn": "86663",
+      "phone": "636-702-5026",
+      "email": "jerry.miller@walker.info",
+      "dob": "12/22/1996"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Name: Sean Walsh\nAddress: 73454 Malik Centers\nAssessment: pneumonia and asthma. denies asthma. Date of service 2026-10-26.",
+    "identifiers": {
+      "name": "Sean Walsh",
+      "mrn": "94537",
+      "phone": "972-477-5049",
+      "email": "sean.walsh@harvey-moyer.net",
+      "dob": "06/04/1993"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Elizabeth Huynh, MRN: 93196, DOB: 02/18/1946. Follow-up visit. Known urinary tract infection and hypertension and pneumonia. Phone 147-047-3057. no hypertension.",
+    "identifiers": {
+      "name": "Elizabeth Huynh",
+      "mrn": "93196",
+      "phone": "147-047-3057",
+      "email": "elizabeth.huynh@williams-johnson.org",
+      "dob": "02/18/1946"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Name: Timothy Richardson\nAddress: 45222 Emily Loaf Suite 555\nAssessment: asthma and pneumonia and urinary tract infection. no hypertension. Date of service 2026-11-15.",
+    "identifiers": {
+      "name": "Timothy Richardson",
+      "mrn": "40847",
+      "phone": "439-645-3986",
+      "email": "timothy.richardson@schmidt.com",
+      "dob": "08/15/1978"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. John James seen today for review. urinary tract infection and asthma and hypertension stable. Contact john.james@brown-mitchell.com. denies asthma.",
+    "identifiers": {
+      "name": "John James",
+      "mrn": "38997",
+      "phone": "906-468-3714",
+      "email": "john.james@brown-mitchell.com",
+      "dob": "06/24/1959"
+    },
+    "codes": [
+      "I10",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Ruth Schmidt, MRN: 16883, DOB: 07/19/1942. Follow-up visit. Known asthma and hypertension and urinary tract infection. Phone 181-379-2929. no hypertension.",
+    "identifiers": {
+      "name": "Ruth Schmidt",
+      "mrn": "16883",
+      "phone": "181-379-2929",
+      "email": "ruth.schmidt@long.com",
+      "dob": "07/19/1942"
+    },
+    "codes": [
+      "I10",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Barbara Robinson, MRN: 66968, DOB: 09/18/1946. Follow-up visit. Known asthma and pneumonia and type 2 diabetes. Phone 285-097-1165. denies asthma.",
+    "identifiers": {
+      "name": "Barbara Robinson",
+      "mrn": "66968",
+      "phone": "285-097-1165",
+      "email": "barbara.robinson@frederick.info",
+      "dob": "09/18/1946"
+    },
+    "codes": [
+      "E11.9",
+      "J18.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Patient: Jaclyn Richards, MRN: 84566, DOB: 12/16/1971. Follow-up visit. Known urinary tract infection and hypertension and pneumonia. Phone 460-797-2264. no hypertension.",
+    "identifiers": {
+      "name": "Jaclyn Richards",
+      "mrn": "84566",
+      "phone": "460-797-2264",
+      "email": "jaclyn.richards@johnson.biz",
+      "dob": "12/16/1971"
+    },
+    "codes": [
+      "I10",
+      "J18.9",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Crystal Berry, MRN: 15546, DOB: 12/30/1935. Follow-up visit. Known pneumonia and urinary tract infection and asthma. Phone 339-082-4349. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Crystal Berry",
+      "mrn": "15546",
+      "phone": "339-082-4349",
+      "email": "crystal.berry@gilbert.com",
+      "dob": "12/30/1935"
+    },
+    "codes": [
+      "J18.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Mr. Claire Smith seen today for review. asthma stable. Contact claire.smith@flores-quinn.info. without pneumonia. Claire Smith agreed with the plan.",
+    "identifiers": {
+      "name": "Claire Smith",
+      "mrn": "76919",
+      "phone": "524-137-0079",
+      "email": "claire.smith@flores-quinn.info",
+      "dob": "11/12/1963"
+    },
+    "codes": [
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Glen Barnes presents with symptoms. History notable for asthma and type 2 diabetes and hypertension. MRN 96377. negative for urinary tract infection.",
+    "identifiers": {
+      "name": "Glen Barnes",
+      "mrn": "96377",
+      "phone": "047-709-8157",
+      "email": "glen.barnes@smith.net",
+      "dob": "03/06/1944"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Jason Harvey seen today for review. type 2 diabetes and hypertension and asthma stable. Contact jason.harvey@martin.biz. no hypertension.",
+    "identifiers": {
+      "name": "Jason Harvey",
+      "mrn": "38356",
+      "phone": "751-651-8979",
+      "email": "jason.harvey@martin.biz",
+      "dob": "10/21/1964"
+    },
+    "codes": [
+      "E11.9",
+      "I10",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "Mr. Brenda Barry seen today for review. type 2 diabetes and urinary tract infection and asthma stable. Contact brenda.barry@torres-hernandez.com. negative for urinary tract infection. Brenda Barry agreed with the plan.",
+    "identifiers": {
+      "name": "Brenda Barry",
+      "mrn": "78378",
+      "phone": "110-429-0748",
+      "email": "brenda.barry@torres-hernandez.com",
+      "dob": "04/26/2003"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Erin Carr, MRN: 82887, DOB: 11/16/1962. Follow-up visit. Known asthma and urinary tract infection. Phone 016-731-8045. denies asthma.",
+    "identifiers": {
+      "name": "Erin Carr",
+      "mrn": "82887",
+      "phone": "016-731-8045",
+      "email": "erin.carr@nichols.com",
+      "dob": "11/16/1962"
+    },
+    "codes": [
+      "J45.909",
+      "N39.0"
+    ]
+  },
+  {
+    "note": "Patient: Brett Gonzalez, MRN: 90275, DOB: 08/20/1978. Follow-up visit. Known pneumonia. Phone 110-526-5929. without pneumonia.",
+    "identifiers": {
+      "name": "Brett Gonzalez",
+      "mrn": "90275",
+      "phone": "110-526-5929",
+      "email": "brett.gonzalez@smith.org",
+      "dob": "08/20/1978"
+    },
+    "codes": [
+      "J18.9"
+    ]
+  },
+  {
+    "note": "Name: Jason Haney\nAddress: 18810 Yoder Pine Suite 655\nAssessment: asthma and type 2 diabetes. no hypertension. Date of service 2026-06-11.",
+    "identifiers": {
+      "name": "Jason Haney",
+      "mrn": "41677",
+      "phone": "050-692-1438",
+      "email": "jason.haney@brown-barton.com",
+      "dob": "11/03/2005"
+    },
+    "codes": [
+      "E11.9",
+      "J45.909"
+    ]
+  },
+  {
+    "note": "John Cobb presents with symptoms. History notable for type 2 diabetes. MRN 90071. no hypertension.",
+    "identifiers": {
+      "name": "John Cobb",
+      "mrn": "90071",
+      "phone": "035-677-9373",
+      "email": "john.cobb@villarreal.com",
+      "dob": "12/08/1938"
+    },
+    "codes": [
+      "E11.9"
+    ]
+  }
+]
